@@ -1,2 +1,3 @@
 git test 2
 git my new feature
+git my new feature commit 3
